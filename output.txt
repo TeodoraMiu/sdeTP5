@@ -1,0 +1,9 @@
+time has passed
+child pid in child: 6980
+parents pid in child: 6939
+total 20
+-rw-rw-r-- 1 teomiu teomiu 1609 Mar 28 22:58 Cargo.lock
+-rw-rw-r-- 1 teomiu teomiu  187 Mar 28 22:56 Cargo.toml
+-rw-rw-r-- 1 teomiu teomiu   68 Mar 28 23:56 output.txt
+drwxrwxr-x 2 teomiu teomiu 4096 Mar 28 22:54 src
+drwxrwxr-x 3 teomiu teomiu 4096 Mar 28 22:59 target
